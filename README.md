@@ -1,8 +1,5 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Naam deeltaak
+Voor deze opdracht moesten we een praatplaat maken waarin we onze ontwikkeling lieten zien aan de hand van een metafoor.
+<img src= "https://user-images.githubusercontent.com/61830362/203534598-16b633ff-124d-445a-89f2-c87fce221e0f.jpg" width= 70%>
 
 
 ## Licentie
